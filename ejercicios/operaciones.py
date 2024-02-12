@@ -9,3 +9,4 @@ def esPar(x):
         return "par"
     else:
         return "impar"
+ 
